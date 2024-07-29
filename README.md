@@ -1,2 +1,3 @@
 # dvc-app
-A sample app with data version control
+
+A simple app to demonstrate Git Large File Storage (DVC) and Data Version Control (DVC).
